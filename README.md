@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Abin.
+- 👀 I’m interested in C++ and Rust.
+- 🌱 I’m currently learning  Rust, Boost libraries in C++, and working with CMake and vcpkg on Rocky Linux.
+- 📫 How to reach me : abin.z@foxmail.com
+- 😄 Pronouns: he
+- ⚡ Fun fact: We are making the world a better place, building perfect systems through code reuse and extension.
