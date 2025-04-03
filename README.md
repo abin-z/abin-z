@@ -14,26 +14,21 @@
 
 
 ```javascript
-const thai = {
-  "name": "Abin",
-  "pronouns": "he/him",
-  "languages": [C++, Rust, Python, JavaScript],
-  "tools": [VSCode, CMake, vcpkg, Git, Docker],
-  "frameworks": [React, Boost, Catch2, Styled-Components],
-  "architecture": ["microservices", "event-driven", "design pattern"],
-  "currentChallenge": "I am doing the #100DaysOfCode challenge focused on React and TypeScript.",
-  "techCommunities": {
-    "coorganizer": "AfroPython",
-    "speaker": "Latinity",
-    "mentor": "EducaTRANSforma"
-  },
-  "learning": [
-    "Boost with vcpkg",
-    "Advanced CMake features",
-    "Rust & Cargo"
-  ],
-  "funFact": "I enjoy solving algorithmic challenges and contributing to open-source projects."
-}
+const abin = {
+  name: Abin,
+  pronouns: he/him,
+  languages: [C++, Rust, Python, JavaScript],
+  tools: [VSCode, CMake, vcpkg, Git, Docker],
+  challenge: #100DaysOfCode(React, TypeScript),
 
+  introduce() {
+    console.log(`👋 Hi, I'm ${this.name} (${this.pronouns})`);
+    console.log(`💻 Coding in: ${this.languages.join(", ")}`);
+    console.log(`🛠️ Tools: ${this.tools.join(", ")}`);
+    console.log(`🚀 Current Challenge: ${this.challenge}`);
+  }
+};
+
+abin.introduce();
 ```
 
