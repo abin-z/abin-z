@@ -11,24 +11,24 @@
 
 </div>
 
-
+#### A little more about me...  
 
 ```javascript
-const abin = {
-  name: Abin,
+const Abin = {
   pronouns: he/him,
-  languages: [C++, Rust, Python, JavaScript],
-  tools: [VSCode, CMake, vcpkg, Git, Docker],
-  challenge: #100DaysOfCode(React, TypeScript),
-
-  introduce() {
-    console.log(`👋 Hi, I'm ${this.name} (${this.pronouns})`);
-    console.log(`💻 Coding in: ${this.languages.join(", ")}`);
-    console.log(`🛠️ Tools: ${this.tools.join(", ")}`);
-    console.log(`🚀 Current Challenge: ${this.challenge}`);
-  }
+  major: "Computer Science and Technology",
+  code: [C, C++, Python, Java, C#, JavaScript],
+  learning: [Rust, CUDA, Modern-C++, Coroutines, Boost.Asio, Machine-Learning],
+  tools: [VSCode, VS, Clion, CMake, vcpkg, Git, Docker],
+  frameworks: [STL, Boost, Qt, Catch2, fmt, spdlog],
+  architecture: [
+    "Operating System",
+    "Computer Network",
+    "Data Structures and Algorithms",
+    "Design Patterns",
+    "Multithreading & Concurrency",
+    "High Performance Computing"
+  ]
 };
-
-abin.introduce();
 ```
 
