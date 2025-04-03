@@ -14,7 +14,7 @@
 
 ```javascript
 const Abin = {
-  pronouns: he/him,
+  pronouns: "he" | "him",
   major: "Computer Science and Technology",
   code: [C, C++, Python, Java, C#, JavaScript],
   learning: [Rust, CUDA, Modern-C++, Coroutines, Boost.Asio, Machine-Learning],
