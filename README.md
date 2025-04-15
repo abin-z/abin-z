@@ -7,8 +7,8 @@
 - 👋 Hi, I'm Abin, a C++ software engineer.
 - 👀 I’m interested in C++ / Rust / Python.
 - 🌱 I’m currently learning  Rust, Boost libraries in C++, and working with CMake and vcpkg on Rocky Linux.
-- ⚡ Fun fact: We are making the world a better place, building perfect systems through code reuse and extension.
 - 💪 Motto: Instead of lamenting the difficulty of the road, let's get going now!
+- ⚡ Fun fact: We are making the world a better place, building perfect systems through code reuse and extension.
 - 📫 How to reach me : abin.z@outlook.com
 
 #### A little more about me...  
