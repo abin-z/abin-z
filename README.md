@@ -18,7 +18,7 @@ const Abin = {
   pronouns: "he" | "him",
   major: "Computer Science and Technology",
   code: [C, C++, Python, Java, C#, JavaScript],
-  learning: [Rust, CUDA, Modern-C++, Coroutines, Boost.Asio, Machine-Learning],
+  learning: [Modern-C++, Rust, CUDA, Coroutines, Boost.Asio, Machine-Learning],
   tools: [VSCode, VS, Clion, CMake, vcpkg, Git, Docker],
   frameworks: [STL, Boost, Qt, Catch2, fmt, spdlog],
   architecture: [
