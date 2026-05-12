@@ -6,7 +6,7 @@
 
 - 👋 Hi, I'm Abin, a C++ software engineer.
 - 👀 I’m interested in C++ / Rust / Python.
-- 🌱 I’m currently learning  Rust, Boost libraries in C++, and working with CMake and vcpkg on Rocky Linux.
+- 🌱 I’m currently learning  ROS, ROS2, Boost libraries in C++, and working with CMake and vcpkg on Linux.
 - 💪 Motto: Instead of lamenting the difficulty of the road, let's get going now!
 - ⚡ Fun fact: We are making the world a better place, building perfect systems through code reuse and extension.
 - 📫 How to reach me : abin.z@outlook.com
@@ -18,7 +18,7 @@ const Abin = {
   pronouns: "he" | "him",
   major: "Computer Science and Technology",
   code: [C, C++, Python, C#, Java],
-  learning: [Modern-C++, Rust, CUDA, Coroutines, Asio, Machine-Learning],
+  learning: [Modern-C++, Rust, ROS, CUDA, Coroutines, Asio, Machine-Learning],
   tools: [VSCode, VS, Clion, Modern-CMake, vcpkg, Git],
   frameworks: [STL, Boost, Qt, Catch2, Asio, fmt, spdlog],
   architecture: [
